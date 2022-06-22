@@ -1,0 +1,1 @@
+Used a template received in a Embedded Systems Course and created Wordle using one finite state machine and displayed the game to an LCD screen.
