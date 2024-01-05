@@ -1,8 +1,8 @@
-# Hangman Game with Arduino and Joystick
+# Wordle Game with Arduino and Joystick
 
 ## Introduction
 
-This project is an implementation of the classic Hangman game using Arduino and a joystick for user interaction. The game utilizes a LiquidCrystal display for the UI and a buzzer for audio feedback. The player navigates through the alphabet using the joystick to make guesses and has a limited number of attempts to guess the correct word.
+This project is an implementation of the new Wordle game using Arduino and a joystick for user interaction. The game utilizes a LiquidCrystal display for the UI and a buzzer for audio feedback. The player navigates through the alphabet using the joystick to make guesses and has a limited number of attempts to guess the correct word.
 
 ## Hardware Requirements
 
